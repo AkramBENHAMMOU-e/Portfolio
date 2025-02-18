@@ -16,7 +16,7 @@ Un portfolio moderne et responsive présentant mes compétences et projets en ta
 
 ![capture](img/screencapture-akrambenhammou-vercel-app-2025-02-18-16_04_19.png)
 
-### Mode claire
+### Mode clair
 
 ![capture](img/screencapture-akrambenhammou-vercel-app-2025-02-18-16_08_24.png)
 
